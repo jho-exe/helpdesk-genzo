@@ -30,11 +30,3 @@ _Las herramientas utilizadas son las siguientes_
 * [JS](https://www.javascript.com/) - FrontEnd
 * [Git](https://git-scm.com/) - Manejador de Versiones
 * [HTML5](https://html5.org/) - FrontEnd
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
